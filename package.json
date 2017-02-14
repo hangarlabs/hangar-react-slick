@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/malliapi/react-slick-2"
+    "url": "https://github.com/hangarlabs/hangar-react-slick"
   },
   "keywords": [
     "slick",
@@ -84,7 +84,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/malliapi/react-slick-2/issues"
+    "url": "https://github.com/hangarlabs/hangar-react-slick/issues"
   },
-  "homepage": "https://github.com/malliapi/react-slick"
+  "homepage": "https://github.com/hangarlabs/hangar-react-slick"
 }
