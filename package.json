@@ -9,7 +9,7 @@
     "test": "jest",
     "dev-test": "jest --watch"
   },
-  "author": "Chris Malliapi",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -74,7 +74,7 @@
   "jest": {
     "setupFiles": ["test-setup.js"]
   },
-  "npmName": "hangar-react-slick",
+  "npmName": "react-slick",
   "npmFileMap": [
     {
       "basePath": "/dist/",
