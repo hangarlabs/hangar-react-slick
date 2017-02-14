@@ -1,5 +1,5 @@
 {
-  "name": "react-slick-2",
+  "name": "hangar-react-slick",
   "version": "0.14.6",
   "description": " React port of slick carousel",
   "main": "./lib",
@@ -9,11 +9,11 @@
     "test": "jest",
     "dev-test": "jest --watch"
   },
-  "author": "Chris Malliapi",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/malliapi/react-slick-2"
+    "url": "https://github.com/hangarlabs/hangar-react-slick"
   },
   "keywords": [
     "slick",
@@ -84,7 +84,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/malliapi/react-slick-2/issues"
+    "url": "https://github.com/hangarlabs/hangar-react-slick/issues"
   },
-  "homepage": "https://github.com/malliapi/react-slick"
+  "homepage": "https://github.com/hangarlabs/hangar-react-slick"
 }
