@@ -16,7 +16,7 @@ Carousel component built with React. It is a react port of [slick carousel](http
 ### Installation
 
 ```bash
-npm install react-slick
+npm install hangarlabs/hangar-react-slick
 ```
 
 Also install slick-carousel for css and font
@@ -49,7 +49,7 @@ get started with react-slick.
 
 ```js
 var React = require('react');
-var Slider = require('react-slick');
+var Slider = require('hangar-react-slick');
 
 var SimpleSlider = React.createClass({
   render: function () {
@@ -177,7 +177,7 @@ and add below jest config in package.json
 Want to run demos locally
 
 ```bash
-git clone https://github.com/akiran/react-slick
+git clone https://github.com/hangarlabs/hangar-react-slick
 npm install
 npm start
 open http://localhost:8080
